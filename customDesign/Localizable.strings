@@ -1,0 +1,9 @@
+
+//  Localizable.swift
+//  customDesign
+//
+//  Created by Stuti Bhavsar  on 06/05/22.
+//
+
+"Registration done" = "Registration done";
+"Email address or Password cant be empty" = "Email address or Password cant be empty";
